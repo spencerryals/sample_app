@@ -80,7 +80,6 @@ p {
 footer {
   margin-top: 45px;
   padding-top: 5px;
-<<<<<<< HEAD
   border-top: 1px solid $grayMediumLight;
   color: $grayLight;
   a {
@@ -100,7 +99,6 @@ footer {
       margin-left: 10px;
     }
   }
-=======
   border-top: 1px solid #eaeaea;
   color: #999;
 }
@@ -201,5 +199,4 @@ input {
 .field_with_errors {
   @extend .control-group;
   @extend .error;
->>>>>>> sign-up
 }
